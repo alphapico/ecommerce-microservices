@@ -1,4 +1,4 @@
-# E-commerce microservices
+# E-commerce microservices (For learning purpose)
 
 ![whole_architecture](https://user-images.githubusercontent.com/65488712/201588202-5f88e56c-a06f-4757-a116-743f7692a4a5.png)
 
